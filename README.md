@@ -1,2 +1,2 @@
-# vscode-accountz
- Multipurpose account manager for visual studio code
+# Accountz
+This plugin is basically "Royal TSX" for Visual Studio Code
